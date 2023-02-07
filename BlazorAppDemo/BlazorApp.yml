@@ -4,9 +4,9 @@
 jobs:
   server:
     source:
-      repository: https://github.com/Cedric01/BenchMarkHelloProject
+      repository: https://github.com/Cedric01/BlazorPrototype
       branchOrCommit: main
-      project: hello.csproj
+      project: BlazorAppDemo/BlazorAppDemo.csproj
     readyStateText: Application started.
 
 scenarios:
